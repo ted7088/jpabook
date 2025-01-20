@@ -17,6 +17,8 @@ public class JpaMain {
         tx.begin();//시작
 
         try {
+            //불변객체로 생성 setter를 안만들면됨
+
 
 
 
